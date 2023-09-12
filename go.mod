@@ -1,4 +1,4 @@
-module github.com/scala-network/libipfs
+module github.com/acsses/libipfs
 
 go 1.18
 
