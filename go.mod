@@ -95,7 +95,7 @@ require (
 	github.com/libp2p/go-cidranger v1.1.0 // indirect
 	github.com/libp2p/go-doh-resolver v0.4.0 // indirect
 	github.com/libp2p/go-flow-metrics v0.1.0 // indirect
-	github.com/libp2p/go-libp2p v0.27.7 // indirect
+	github.com/libp2p/go-libp2p v0.27.8 // indirect
 	github.com/libp2p/go-libp2p-asn-util v0.3.0 // indirect
 	github.com/libp2p/go-libp2p-kad-dht v0.24.2 // indirect
 	github.com/libp2p/go-libp2p-kbucket v0.6.3 // indirect
