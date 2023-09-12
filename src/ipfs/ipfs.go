@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/scala-network/libipfs/src/constants"
-	"github.com/scala-network/libipfs/src/utils"
+	"github.com/acsses/libipfs/src/constants"
+	"github.com/acsses/libipfs/src/utils"
 
 	icore "github.com/ipfs/boxo/coreiface"
 	opt "github.com/ipfs/boxo/coreiface/options"
