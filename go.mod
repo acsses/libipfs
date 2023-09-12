@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/ipfs/boxo v0.10.2-0.20230629143123-2d3edc552442
-	github.com/ipfs/kubo v0.21.0
+	github.com/ipfs/kubo v0.22.0
 )
 
 require (
