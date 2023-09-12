@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/scala-network/libipfs/src/constants"
-	"github.com/scala-network/libipfs/src/ipfs"
+	"github.com/acsses/libipfs/src/constants"
+	"github.com/acsses/libipfs/src/ipfs"
 )
 
 type Result struct {
