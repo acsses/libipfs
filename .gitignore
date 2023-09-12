@@ -1,0 +1,5 @@
+bin/
+example/.libipfs-repo/
+example/libipfs-*
+example/test-download.jpg
+.vscode/
